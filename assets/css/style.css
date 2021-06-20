@@ -35,9 +35,13 @@ p {
 .medium-font {
   font-size: 36px;
 }
+
+.max-height-2 {
+  max-height: 200px;
+}
 /* Utilities END */
 
-/* Header/Navigation Start */
+/* Header/Navigation Styling START */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -71,8 +75,9 @@ header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
-/* Header/Navigation END */
+/* Header/Navigation Styling END */
 
+/* Hero/Jumbotron START */
 .hero {
   height: 800px;
   width: 100%;
@@ -81,13 +86,26 @@ header nav ul li {
   background-size: cover;
   background-position: center;
 }
+/* Hero/Jumbotron END */
 
+/* Content Styling START */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+.content-subsections {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+/* Content Styling END */
+
+/* Benefits Styling START */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -146,47 +164,9 @@ header nav ul li {
   margin: 10px auto;
   max-width: 150px;
 }
+/* Benefits Styling END */
 
-.search-engine-optimization {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.online-reputation-management {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.social-media-marketing {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.search-engine-optimization img {
-  max-height: 200px;
-}
-
-.online-reputation-management img {
-  max-height: 200px;
-}
-
-.social-media-marketing img {
-  max-height: 200px;
-}
-
-/* Footer Section START */
+/* Footer Styling START */
 footer {
   padding: 30px;
   clear: both;
