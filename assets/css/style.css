@@ -74,11 +74,11 @@ p {
 }
 
 .margin-bot {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .medium-font {
-    font-size: 36px;
+  font-size: 36px;
 }
 /* Utilities END */
 
@@ -182,13 +182,12 @@ p {
   max-height: 200px;
 }
 
-
 .social-media-marketing img {
   max-height: 200px;
 }
 
 /* Footer START */
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -196,6 +195,6 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
