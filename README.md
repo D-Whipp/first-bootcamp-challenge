@@ -10,7 +10,7 @@ job I had or who I was with I always found my mind going back to Javascript. I b
 learn more about this world of coding and see if I got what it takes to become a fulltime developer.
 
 Why did I build this project - I built this project because I believe it is a stepping stone on the pathway to becoming
-a fulltime developer. I believe each of these stepping stones contain a piece of a skill or hold a bit of knowledge. If I walk this path long enough then I'll eventaully be able to carve out my own coding path or help someone create theres.
+a fulltime developer. I believe each of these stepping stones contain a piece of a skill or hold a bit of knowledge. If I walk this path long enough then I'll eventaully be able to carve out my own coding path or help someone create theirs.
 
 What problem does this project solve - This project helped me get some experience in what it will be like to work as a developer. I got to see how a ticket may present itself in the workforce and I got to come up with strategies on how I would deal with said ticket.
 
@@ -18,7 +18,7 @@ What did I learn - I learned the value in DRY, comments, and properly sectioning
 
 What makes this project stand out - This project stands out because it looks like a perfectly functional website. It wasn't until I interacted with the links that I noticed something was up.
 
-If you want to view Horiseon follow this [Link view the deployed site](https://d-whipp.github.io/first-bootcamp-challenge/)
+If you want to view Horiseon follow this [link](https://d-whipp.github.io/first-bootcamp-challenge/)
 
 ## Installation
 
@@ -26,21 +26,20 @@ N/A
 
 ## Usage
 
-To use Horiseon simply go to the url [at] (https://d-whipp.github.io/first-bootcamp-challenge/) and click on the site's navigation or scroll through the content.
+To use Horiseon simply go to the url [by clicking here](https://d-whipp.github.io/first-bootcamp-challenge/) and click on the site's navigation or scroll through the content.
 
 ## Credits
 
-The Starter Code for this project was provided by Xandromus [at] (https://github.com/coding-boot-camp/urban-octo-telegram)
+The Starter Code for this project was provided by Xandromus [which you can view by clicking here](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ## License
 
-Xandromus deleted his [license] (https://github.com/coding-boot-camp/urban-octo-telegram/commit/e5845259f5ac0c59a56004cb0caf38b4a8d73424#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7)
+Xandromus deleted his [license](https://github.com/coding-boot-camp/urban-octo-telegram/commit/e5845259f5ac0c59a56004cb0caf38b4a8d73424#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7)
 
-You can view the license I chose; [MIT License at] (https://choosealicense.com/licenses/mit/)
+You can view the license I chose; [MIT License at](https://choosealicense.com/licenses/mit/)
 
 ## Badges
 
 [![html build](https://img.shields.io/badge/html-horiseon-blue)](https://d-whipp.github.io/first-bootcamp-challenge/)
 [![css build](https://img.shields.io/badge/css-horiseon-orange?style=for-the-badge&logo=appveyor)](https://d-whipp.github.io/first-bootcamp-challenge/)
 [![git build](https://img.shields.io/badge/git-horiseon-brightgreen?style=plastic&logo=appveyor)](https://d-whipp.github.io/first-bootcamp-challenge/)
-
