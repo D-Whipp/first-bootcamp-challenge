@@ -18,7 +18,7 @@ What did I learn - I learned the value in DRY, comments, and properly sectioning
 
 What makes this project stand out - This project stands out because it looks like a perfectly functional website. It wasn't until I interacted with the links that I noticed something was up.
 
-If you want to view Horiseon follow this [link](https://d-whipp.github.io/first-bootcamp-challenge/)
+If you want to view my Horiseon site follow this [link](https://d-whipp.github.io/first-bootcamp-challenge/)
 
 ## Installation
 
@@ -36,7 +36,7 @@ The Starter Code for this project was provided by Xandromus [which you can view 
 
 Xandromus deleted his [license](https://github.com/coding-boot-camp/urban-octo-telegram/commit/e5845259f5ac0c59a56004cb0caf38b4a8d73424#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7)
 
-You can view the license I chose; [MIT License at](https://choosealicense.com/licenses/mit/)
+You can view the license I chose [here](https://choosealicense.com/licenses/mit/)
 
 ## Badges
 
