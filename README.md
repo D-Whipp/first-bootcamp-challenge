@@ -35,12 +35,31 @@ The Starter Code for this project was provided by Xandromus [which you can view 
 
 ## License
 
-Xandromus deleted his [license](https://github.com/coding-boot-camp/urban-octo-telegram/commit/e5845259f5ac0c59a56004cb0caf38b4a8d73424#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7)
+MIT License
 
-You can view the license I chose [here](https://choosealicense.com/licenses/mit/)
+Copyright (c) [2022] [David-Whipple]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Badges
 
 [![html build](https://img.shields.io/badge/html-horiseon-blue)](https://d-whipp.github.io/first-bootcamp-challenge/)
 [![css build](https://img.shields.io/badge/css-horiseon-orange?style=for-the-badge&logo=appveyor)](https://d-whipp.github.io/first-bootcamp-challenge/)
 [![git build](https://img.shields.io/badge/git-horiseon-brightgreen?style=plastic&logo=appveyor)](https://d-whipp.github.io/first-bootcamp-challenge/)
+[![license](https://img.shields.io/badge/license-MIT-critical)](https://d-whipp.github.io/first-bootcamp-challenge/)
