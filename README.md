@@ -1,4 +1,6 @@
 # HTML CSS Git Challenge: Code Refactor
+### Front End App
+![app screenshot](./assets/images/app-screenshot.png)
 
 ## Description
 
