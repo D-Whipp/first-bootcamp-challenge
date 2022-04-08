@@ -20,8 +20,8 @@ What did I learn - I learned the value in DRY, comments, and properly sectioning
 
 What makes this project stand out - This project stands out because it looks like a perfectly functional website. It wasn't until I interacted with the links that I noticed something was up.
 
-If you want to view my Horiseon site follow this [link](https://d-whipp.github.io/horiseon-code-refactor/)
-To view my Github Horiseon Repository click [here](https://github.com/D-Whipp/first-bootcamp-challenge.git)
+If you want to view my Horiseon site follow this [link](https://d-whipp.github.io/horiseon-code-refactor/) <br />
+To view my Github Horiseon Repository click [here](https://github.com/D-Whipp/horiseon-code-refactor/blob/main/README.md)
 
 ## Installation
 
